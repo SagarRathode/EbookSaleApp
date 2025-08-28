@@ -32,5 +32,5 @@ Includes cart, personal library, promotional banner carousel, and book detail sc
 
 ---
 
-## 📂 Project Structure
+
 
